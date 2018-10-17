@@ -10,6 +10,7 @@ namespace GitPresent
     {
         static void Main(string[] args)
         {
+            hello
         }
     }
 }
